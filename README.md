@@ -84,12 +84,3 @@ Feel free to contribute! Open an issue or submit a pull request for new features
 ## 📄 License
 
 MIT License © **XPROVerce**
-
-```
-
----
-
-If you want, I can also **make a more flashy “premium” version** with neon emojis, futuristic styling, and extra sections like **FAQs, Examples, and Quick Tips** that match your XPROVerce branding.  
-
-Do you want me to do that next?
-```
