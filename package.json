@@ -1,0 +1,12 @@
+{
+  "name": "@XPROVerce/YoutubeDl",
+  "version": "1.0.0",
+  "description": "A simple YouTube downloader for Node.js (mp3 & mp4)",
+  "main": "index.js",
+  "keywords": ["youtube", "download", "mp3", "mp4", "XPROVerce"],
+  "author": "XPROVerce OFC",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
